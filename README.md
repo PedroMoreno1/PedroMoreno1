@@ -27,8 +27,9 @@
 - **Estudiante** del 6to ciclo de la carrera de **Computación e Informatica**.
 - Interesado en el desarrollo **BackEnd**, enfocado en la creación de **APIs REST** para aplicaciones web escalables.
 - Comprometido con mis objetivos, con ganas de seguir aprendiendo y mejorando tanto mis habilidades técnicas como mis habilidades blandas día a día.
-### 📊 Mis estadísticas de GitHub
-![Estadísticas de GitHub de Pedro](https://github-readme-stats.vercel.app/api?username=pedromoreno1&show_icons=true&theme=radical)
+
+### 📊 Las estadisticas del repositorio:
+![Pedro Moreno GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromoreno1&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromoreno1&layout=compact&theme=dark)
 
 ### Gracias por pasarte, que tengas un buen día!
 <img src="https://media.tenor.com/3IDmM3lSjSAAAAAi/r74n-r74moji.gif" width="80"/>
