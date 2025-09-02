@@ -9,8 +9,7 @@
 
 
 ## 🚀 Explora mis proyectos:
-- [**Proximamente**](#) – Esta es una **prueba** y **prueba**.
-- [**Proximamente**](#) – Esta es una **prueba** y **prueba**.
+- [**Tools API**](https://github.com/PedroMoreno1/tools-api) – API para control de inventario y alquiler de herramientas mediante tickets(**Java 17** y **Spring Boot**).
 
 
 ##  🖥️ Tecnologías y Herramientas que utilizo:
@@ -20,6 +19,7 @@
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-57E340?style=for-the-badge&logo=swagger&logoColor=black)
 
 ### 🤵🏽 Acerca de mi:
 - 🎓 **Egresado** de la carrera de **Computación e Informatica**.
